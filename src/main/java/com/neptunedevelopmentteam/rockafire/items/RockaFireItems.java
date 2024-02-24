@@ -1,4 +1,6 @@
 package com.neptunedevelopmentteam.rockafire.items;
 
-public class RockaFireItems {
+import com.neptunedevelopmentteam.neptunelib.core.init_handlers.NeptuneItemInit;
+
+public class RockaFireItems implements NeptuneItemInit {
 }
