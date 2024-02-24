@@ -10,6 +10,5 @@ public class RockaFire implements ModInitializer {
     public static final Logger LOGGER = Logger.getLogger(MOD_ID);
     @Override
     public void onInitialize() {
-
     }
 }
